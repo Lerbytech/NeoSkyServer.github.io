@@ -1,0 +1,35 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ex.com" resolutions="1x" timestamp="1501015752798">
+  <folder name="css">
+    <file name="site_global.css" crc="3319227"/>
+    <file name="index.css" crc="4007941552" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="labelfin.jpg" crc="4137610331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0001.jpg" crc="147395808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0002.jpg" crc="6251049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="minecraft-herodf1112867f04.jpg" crc="4120950675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eversky-neo-derver-favicon.ico" crc="211146281" ref="index"/>
+  </folder>
+  <file name="index.html" crc="115122511" seo="true" mt="1501015723717" redirect="true"/>
+</manifest>
